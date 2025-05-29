@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Outboard",
+	"icon": "https://micro.blog/bradlau/avatar.jpg",
+	"home_page_url": "https://outboard.wtf/",
+	"feed_url": "https://outboard.wtf/feed.json",
+	"items": [
+		
+			{
+				"id": "http://outboard.micro.blog/2025/05/21/welcome-to-outboard/",
+				"title": "Welcome to Outboard",
+				"content_html": "<p>Soft-launching <strong>Outboard</strong> on the heels of <a href=\"https://openai.com/sam-and-jony/\">the news</a> that Jonny Ive&rsquo;s io company will merge with OpenAI, and his design consultancy, LoveFrom, &ldquo;will assume deep design and creative responsibilities across OpenAI and io&rdquo; seems like a fine place to start, so here we go!</p>\n<p>Many will be cynical about this announcement, but the hopeless optimist in me is excited to see what they&rsquo;re cookin'.</p>\n<p>But why am I bringing <strong>Outboard</strong> to life today? Well, I&rsquo;ve been thinking about the future of computing experiences a lot lately, and the discourse I&rsquo;m seeing is just way too hand-wavey for my comfort level.</p>\n<p>So, expect <strong>Outboard</strong> to focus on the interactions and experiences that are becoming available as we continue to move away from WIMP (windows, icons, menus, and pointers) and into a (hopefully) more empathic, conversational world of computing experiences.</p>\n",
+				"content_text": "Soft-launching **Outboard** on the heels of [the news](https://openai.com/sam-and-jony/) that Jonny Ive's io company will merge with OpenAI, and his design consultancy, LoveFrom, \"will assume deep design and creative responsibilities across OpenAI and io\" seems like a fine place to start, so here we go!\r\n\r\nMany will be cynical about this announcement, but the hopeless optimist in me is excited to see what they're cookin'.\r\n\r\nBut why am I bringing **Outboard** to life today? Well, I've been thinking about the future of computing experiences a lot lately, and the discourse I'm seeing is just way too hand-wavey for my comfort level. \r\n\r\nSo, expect **Outboard** to focus on the interactions and experiences that are becoming available as we continue to move away from WIMP (windows, icons, menus, and pointers) and into a (hopefully) more empathic, conversational world of computing experiences.\r\n\r\n\r\n",
+				"date_published": "2025-05-21T20:05:59-07:00",
+				"url": "https://outboard.wtf/2025/05/21/welcome-to-outboard/"
+			}
+	]
+}
